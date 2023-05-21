@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://testdownload.m.jj.cn/testing_ios_ipa/101/51601/60000/TK.51601.60000.ipa</string>
+				</dict>
+				<dict>
+					<key>url</key>
+					<string>https://testdownload.m.jj.cn/testing_ios_ipa/101/51601/60000/Icon.png</string>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>url</key>
+					<string>https://testdownload.m.jj.cn/testing_ios_ipa/101/51601/60000/Icon@2x.png</string>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>cn.jj.TKLobby</string>
+				<key>bundle-version</key>
+				<string>51601</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>TK.51601.60000</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
